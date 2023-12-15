@@ -15,3 +15,8 @@
 
 ![Aula 04](assets/class04_connection_between_routers.png)
 
+
+### Projeto Final: Conexão entre 4 sub-redes com roteadores (Tabelas de roteamento)
+
+![Projeto Final](assets/final_project_connection_between_four_subnetworks_with_routers.png)
+
